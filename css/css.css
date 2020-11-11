@@ -1,0 +1,22 @@
+body {
+    background-color: #222831;
+}
+.text{
+    color: #e8e8e8;
+}
+.box {
+    background: #9E9E9E;
+    border: black 1px solid;
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 0;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+}
+.row {
+    display: block;
+    float:left;
+    width:100%;
+}
